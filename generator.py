@@ -14,11 +14,11 @@ def valid_login():
 
 
 def usage():
-    print("python" + __file__ + "\n")
+    print("Usage: python " + __file__)
     print("Arguments:")
-    print("\t-d, --days <days>\tNumber of days of epg to generate")
     print("\t-u, --username <USERNAME>")
     print("\t-p, --password <PASSWORD>")
+    print("\t-d, --days <DAYS>\t\tNumber of days of epg to generate")
 
 
 def error(message: str):
