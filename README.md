@@ -1,5 +1,5 @@
-# magio-epg-xml-generator
-EPG export tool to XMLTV format from Magio.tv API
+# EPG generator
+Simple application to generate EPG using data from Magio.TV API. 
 
 ## Usage
 ```
